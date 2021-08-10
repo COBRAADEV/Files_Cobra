@@ -21,7 +21,7 @@ Text_Games = [[
  *❂~⪼لعبه الحزوره ↞لعبة التفكير*
  *❂~⪼لعبه المعاني ↞ العبه الشهيره* 
 *ٴ•━━━━━━ 𝘾𝙊 ━━━━━━━•*
-[⍆ 𝘛𝘌𝘓𝘈𝘕𝘋 𝘛𝘦𝘈𝘮](t.me/CoBBRa_TEAM)
+[CoBRa 𝘛𝘦𝘈𝘮](t.me/CoBBRa_TEAM)
 ]]
 send(msg.chat_id_, msg.id_,Text_Games) 
 end
